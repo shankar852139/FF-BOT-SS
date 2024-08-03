@@ -2,7 +2,7 @@
     "name": "MiraiBypass",
     "version": "1.2.14",
     "description": "Dao Khanh Duy",
-    "main": "mirai.js",
+    "main": "index.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
